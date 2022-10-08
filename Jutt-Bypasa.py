@@ -1,0 +1,2 @@
+import JUTT
+JUTT.Tabii()
